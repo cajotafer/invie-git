@@ -1,3 +1,4 @@
-# invie-git
-Tus mejores guitarras invie-sibles
-Hecho por Carlitos!
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
